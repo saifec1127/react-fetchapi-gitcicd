@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          React app with data feching from API
+          React app with data feching from API and controlling version with git
         </p>
         <a
           className="App-link"
