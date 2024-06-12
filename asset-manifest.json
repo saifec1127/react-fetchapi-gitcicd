@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-fetchapi-gitcicd/static/css/main.dc4d6ff2.css",
-    "main.js": "/react-fetchapi-gitcicd/static/js/main.84ce8cac.js",
+    "main.js": "/react-fetchapi-gitcicd/static/js/main.60701248.js",
     "index.html": "/react-fetchapi-gitcicd/index.html",
     "main.dc4d6ff2.css.map": "/react-fetchapi-gitcicd/static/css/main.dc4d6ff2.css.map",
-    "main.84ce8cac.js.map": "/react-fetchapi-gitcicd/static/js/main.84ce8cac.js.map"
+    "main.60701248.js.map": "/react-fetchapi-gitcicd/static/js/main.60701248.js.map"
   },
   "entrypoints": [
     "static/css/main.dc4d6ff2.css",
-    "static/js/main.84ce8cac.js"
+    "static/js/main.60701248.js"
   ]
 }
